@@ -3,9 +3,8 @@
     margin-left: 10px;
     color: azure;
 }
-.planos ul{
-    list-style: none;
-    padding: 20px;
+.planos{
+   padding: 20px;
 }
 .valor{
     background-color: #FEDC52;
